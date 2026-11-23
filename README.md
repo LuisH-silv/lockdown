@@ -36,13 +36,13 @@
   <table>
     <tr>
       <td align="center" width="500">
-        <h1><font color="#58a6ff">Linguagens mais usadas </font></h1>
+        <h1><font color="#blue">Linguagens mais usados </font></h1>
         <br/>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <br/><br/>
-        <sub>Foco atual em C, C++ e Python</sub>
+        <sub></sub>
       </td>
     </tr>
   </table>
