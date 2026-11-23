@@ -1,4 +1,9 @@
-Ideia de catraca 
-01
-Apenas uma ideia de permissão para passas apenas com altorização facial 
+# Sistema de Permissão Inteligente Facial
 
+##Projeto simples de permissão 
+facial sistema de controle de acesso com reconhecimento facial, 
+desenvolvido em Python e integrado a uma API REST.
+
+# Linguagens utilizadas 
+- Python 
+- C++
